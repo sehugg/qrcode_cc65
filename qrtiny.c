@@ -1,4 +1,3 @@
-// https://github.com/danielgjackson/qrtiny
 // QR Code V1 Generator
 // Dan Jackson, 2020
 

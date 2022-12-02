@@ -1,4 +1,10 @@
 
+// QR code demo for 8-bit computers.
+// https://8bitworkshop.com/docs/posts/2022/8bit-qr-code.html
+// Uses qrtiny:
+// - https://github.com/danielgjackson/qrtiny
+// - Copyright (c) 2020, Dan Jackson. All rights reserved.
+
 #include "qrtiny.h"
 //#link "qrtiny.c"
 
